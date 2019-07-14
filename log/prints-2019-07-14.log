@@ -1,0 +1,8 @@
+18:12:49.872 [main] DEBUG Beta.Demo1 - This is debuging message
+18:12:49.872 [main] ERROR Beta.Demo1 - this is error message in Demo1
+18:16:53.093 [main] DEBUG Beta.Demo1 - This is debuging message
+18:16:53.093 [main] ERROR Beta.Demo1 - this is error message in Demo1
+18:17:21.000 [main] DEBUG Beta.Demo1 - This is debuging message
+18:17:21.000 [main] DEBUG Beta.Demo1 - This is debuging message
+18:17:21.000 [main] ERROR Beta.Demo1 - this is error message in Demo1
+18:17:21.000 [main] ERROR Beta.Demo1 - this is error message in Demo1
